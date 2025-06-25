@@ -8,5 +8,5 @@ st.write(
     "Hello Streamlit World"
 )
 st.write(
-    "🎈 🎈 🎈 🎈 🎈 🎈 🎈 "
+    "🎈 🎈 🎈 🎈 🎈 🎈 🎈 🎈 "
 )
