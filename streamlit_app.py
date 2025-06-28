@@ -55,5 +55,4 @@ if st.button("자막 가져오기"):
         st.warning("☝️ 유튜브 영상 주소를 입력해주세요.")
 
 st.markdown("---")
-st.markdown("이 앱은 `youtube-transcript-api` 라이브러리를 사용합니다.")
-st.markdown("개발 문의: [GitHub](https://github.com/johndoe/youtube-transcript-app) (가상 링크입니다)")
+
